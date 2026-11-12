@@ -1,0 +1,20 @@
+{
+ "sitio": "Cecilia Ludi - Asesoría Legal",
+ "titulo_corto": "Cecilia Ludi · Asesoría Legal",
+ "responsable": "la Abg. María Cecilia Ludi (Cecilia Ludi - Asesoría Legal)",
+ "domicilio": "Ciudad de Córdoba, Provincia de Córdoba",
+ "email": "abog.cecilialudi@gmail.com",
+ "telefono": "+54 9 351 850-3413 (Córdoba) · +54 9 342 421-6914 (Santa Fe)",
+ "persona": "yo",
+ "formulario": true,
+ "btn": "btn-navy",
+ "theme_color": "#2C2A51",
+ "css": {
+  "fondo": "#fff",
+  "fondo_hero": "var(--navy)",
+  "texto_hero": "#fff",
+  "acento": "var(--chest)",
+  "muted": "var(--muted)",
+  "titulos": "var(--head)"
+ }
+}
