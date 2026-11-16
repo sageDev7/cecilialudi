@@ -124,7 +124,7 @@ body.nav-open .mnav-ov{opacity:1;visibility:visible}
 
 /* ---------- hero ---------- */
 .hero{position:relative;height:100vh;height:100svh;min-height:700px;display:flex;flex-direction:column;justify-content:center;overflow:hidden;background:linear-gradient(135deg,var(--navy) 0%,#262447 55%,var(--navy-2) 100%);color:var(--muted-d)}
-.hero-foto{position:absolute;top:0;right:0;bottom:0;width:46%;background:url("./img/cecilia-retrato.jpg") 50% 22%/cover no-repeat}
+.hero-foto{position:absolute;top:0;right:0;bottom:0;width:46%;background:url("./img/cecilia-retrato.jpg?v=2") 50% 22%/cover no-repeat}
 .hero-foto::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--navy) 0%,rgba(44,42,81,.55) 22%,rgba(44,42,81,0) 48%),linear-gradient(0deg,rgba(34,31,64,.8) 0%,rgba(34,31,64,0) 32%)}
 .hero-foto::after{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:linear-gradient(180deg,rgba(242,195,134,0),var(--gold) 30%,var(--gold) 70%,rgba(242,195,134,0))}
 .hero-iso{display:none}
